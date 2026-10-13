@@ -30,7 +30,7 @@ A **WACC card**: one page, in our app, showing the WACC and every input behind i
 | Role | Name | GitHub username | Branch | Owns |
 |---|---|---|---|---|
 | CEO | <name> | <username> | `main` (reviews and merges) | this README, reviewing every pull request |
-| Developer | <name> | <username> | `dev-wacc` | `code/wacc.py` |
+| Developer | <Jason Thomas> | <jthomas990> | `dev-wacc` | `code/wacc.py` |
 | Product manager | <name> | <username> | `pm-app` | `app.py` |
 | Analyst | <name> | <username> | `analyst-inputs` | `inputs/assumptions.csv` (every number has a source) |
 
